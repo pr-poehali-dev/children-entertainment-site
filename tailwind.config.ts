@@ -61,7 +61,14 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				// Детская цветовая палитра
+				sunny: '#96CEB4',
+				turquoise: '#4ECDC4',
+				coral: '#FF6B6B',
+				lavender: '#DDA0DD',
+				mint: '#98FB98',
+				peach: '#FFCBA4'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
