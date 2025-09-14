@@ -62,13 +62,14 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-				// Детская цветовая палитра
-				sunny: '#96CEB4',
-				turquoise: '#4ECDC4',
-				coral: '#FF6B6B',
-				lavender: '#DDA0DD',
-				mint: '#98FB98',
-				peach: '#FFCBA4'
+				// Трансильвания цветовая палитра
+				'vampire-purple': '#4C0080',
+				'midnight-blue': '#0B0B2F',
+				'gothic-green': '#228B22',
+				'bat-yellow': '#FFD700',
+				'blood-red': '#8B0000',
+				'ghost-gray': '#2F2F2F',
+				'castle-stone': '#696969'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
